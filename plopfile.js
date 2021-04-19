@@ -1,7 +1,7 @@
 module.exports = function (plop) {
     plop.setGenerator('component', {
         description: 'create a new React component',
-        propmts: [
+        prompts: [
             {
                 type: 'input',
                 name: 'name',
