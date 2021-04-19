@@ -1,6 +1,8 @@
 import React from 'react';
 import { hot } from 'react-hot-loader';
 
-const App = () => <div>Hello World!</div>;
+import ReduxTest from './components/ReduxTest/ReduxTest';
+
+const App = () => <ReduxTest />;
 
 export default hot(module)(App);
