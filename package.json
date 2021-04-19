@@ -1,0 +1,9 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "non-CRAp react-app",
+  "main": "index.js",
+  "repository": "git@github.com:madrich27times/react-boilerplate.git",
+  "author": "Maddy Richard <mnrichard27@gmail.com>",
+  "license": "MIT"
+}
